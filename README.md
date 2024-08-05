@@ -15,14 +15,15 @@ Este projeto implementa uma árvore B para inserir dados de um arquivo de entrad
     - Os dados são gerados aleatoriamente.
 
 2. Execute o script principal:
-    - Entre na pasta src 
-    ```bash
-        cd src
-    ```
-
+    
     - Ative o ambiente virtual
     ```
         env\Scripts\activate
+    ```
+    
+    - Entre na pasta src 
+    ```bash
+        cd src
     ```
     
     - Execute o script
